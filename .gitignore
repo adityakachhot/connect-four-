@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model checkpoints (large binary files — 1.5 GB total)
+checkpoints/
+
+# Reference repo (cloned externally — not part of this codebase)
+reference-repo/
+
+# Training logs
+src/logs/*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# nohup
+nohup.out
+
+# Pytest
+.pytest_cache/
+.coverage
+
+# Build
+*.egg-info/
+dist/
+build/
+
+# Hidden tracking files written by train script
+src/logs/.run*
+
+# Temp training-example cache
+temp/
+
+# Hidden run-tracking files
+src/logs/.current_run_log
+src/logs/.current_run_pid
