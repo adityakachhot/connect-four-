@@ -1,0 +1,92 @@
+[
+  {
+    "run": "Run 1",
+    "depth": 2,
+    "wins_nnet": 36,
+    "wins_minimax": 3,
+    "draws": 1,
+    "win_rate_nnet": 0.923,
+    "n_games": 40,
+    "elapsed_s": 1.2
+  },
+  {
+    "run": "Run 1",
+    "depth": 4,
+    "wins_nnet": 22,
+    "wins_minimax": 13,
+    "draws": 5,
+    "win_rate_nnet": 0.629,
+    "n_games": 40,
+    "elapsed_s": 8.0
+  },
+  {
+    "run": "Run 1",
+    "depth": 6,
+    "wins_nnet": 15,
+    "wins_minimax": 22,
+    "draws": 3,
+    "win_rate_nnet": 0.405,
+    "n_games": 40,
+    "elapsed_s": 143.0
+  },
+  {
+    "run": "Run 2",
+    "depth": 2,
+    "wins_nnet": 38,
+    "wins_minimax": 1,
+    "draws": 1,
+    "win_rate_nnet": 0.974,
+    "n_games": 40,
+    "elapsed_s": 1.0
+  },
+  {
+    "run": "Run 2",
+    "depth": 4,
+    "wins_nnet": 27,
+    "wins_minimax": 10,
+    "draws": 3,
+    "win_rate_nnet": 0.73,
+    "n_games": 40,
+    "elapsed_s": 7.5
+  },
+  {
+    "run": "Run 2",
+    "depth": 6,
+    "wins_nnet": 17,
+    "wins_minimax": 20,
+    "draws": 3,
+    "win_rate_nnet": 0.459,
+    "n_games": 40,
+    "elapsed_s": 149.1
+  },
+  {
+    "run": "Run 3",
+    "depth": 2,
+    "wins_nnet": 38,
+    "wins_minimax": 1,
+    "draws": 1,
+    "win_rate_nnet": 0.974,
+    "n_games": 40,
+    "elapsed_s": 1.1
+  },
+  {
+    "run": "Run 3",
+    "depth": 4,
+    "wins_nnet": 28,
+    "wins_minimax": 9,
+    "draws": 3,
+    "win_rate_nnet": 0.757,
+    "n_games": 40,
+    "elapsed_s": 6.5
+  },
+  {
+    "run": "Run 3",
+    "depth": 6,
+    "wins_nnet": 18,
+    "wins_minimax": 19,
+    "draws": 3,
+    "win_rate_nnet": 0.486,
+    "n_games": 40,
+    "elapsed_s": 137.7
+  }
+]
